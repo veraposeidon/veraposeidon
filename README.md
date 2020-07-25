@@ -5,4 +5,4 @@
 🎓 @ Hohai University <br>
 📖 currently learning Swift and Objective-C <br>
 📰 blog: [SHEN's Blog](shenxiaohai.me) <br>
-✉️ mail: [veraposeidon@gmail.com](veraposeidon@gmail.com) <br>
+✉️ mail: [veraposeidon@gmail.com](mailto:veraposeidon@gmail.com) <br>
