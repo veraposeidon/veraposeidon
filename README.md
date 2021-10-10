@@ -3,7 +3,7 @@
 ### Hi there 👋 , I'm xiaohai
 💻    &ensp; Mobile Development Engineer @ Yuanfudao <br>
 🎓    &ensp; @ Hohai University <br>
-📖    &ensp; currently learning Swift and Objective-C and Flutter <br>
+📖    &ensp; currently learning Swift and Objective-C and Flutter and Vapor <br>
 📰    &ensp; blog: [SHEN's Blog](https://shenxiaohai.me) <br>
 🚀    &ensp; mail: [veraposeidon@gmail.com](mailto:veraposeidon@gmail.com) <br>
 
