@@ -10,9 +10,9 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [利用 iCloud 链接 Notion 与本地文件](https://shenxiaohai.me/2022/03/17/linking-local-files-to-Notion-with-iCloud/)
 - [如何将现有证书适配支持 fastlane match](https://shenxiaohai.me/2021/12/30/SupportFastlaneMatchforExisting/)
 - [利用 GitHub Actions 进行 iOS 项目的 CI/CD](https://shenxiaohai.me/2021/10/29/GitHubActionsForIos/)
 - [正则表达式的简单使用](https://shenxiaohai.me/2021/10/11/regular-expression-simpleUse/)
 - [Tip-Review-Algorithm 第十一期](https://shenxiaohai.me/2021/06/21/TRA-11/)
-- [Tip-Review-Algorithm 第十期](https://shenxiaohai.me/2021/05/30/TRA-10/)
 <!-- BLOG-POST-LIST:END -->
