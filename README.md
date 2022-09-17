@@ -5,7 +5,6 @@
 🎓    &ensp; @ Hohai <br>
 📖    &ensp; currently learning Swift <br>
 📰    &ensp; blog: [SHEN's Blog](https://shenxiaohai.me) <br>
-🚀    &ensp; mail: [veraposeidon@gmail.com](mailto:veraposeidon@gmail.com) <br>
 
 ## 📕 Latest Blog Posts
 
